@@ -1,6 +1,7 @@
 import argparse
 import socket
 def scan_port(target,ports):
+    print("tes")
     try:
         target = socket.gethostbyname(target)
     except socket.gaierror:
