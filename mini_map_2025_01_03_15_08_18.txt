@@ -1,1 +1,0 @@
-Scanning ctf15.root-me.org : 212.83.175.152 from port 1 to 10000
